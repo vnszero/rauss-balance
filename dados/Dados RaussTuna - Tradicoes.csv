@@ -1,0 +1,10 @@
+regra,valor,prioridade
+Veteranos e Tunos ao Centro,FALSE,0
+Caloiro Ponta Ou Atrás,TRUE,40
+Equilibrar Volume,TRUE,70
+Distribuir Graves Pontas,TRUE,60
+Percussão no Meio,FALSE,0
+Coreografia nas Pontas,TRUE,100
+Instrumentos de Solo juntos,TRUE,100
+Separar por Gênero,TRUE,100
+Filas,1,100
